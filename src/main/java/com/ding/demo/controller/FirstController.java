@@ -30,7 +30,7 @@ public class FirstController {
     public boolean logx(){
         logger.trace("我是trace信息");
 
-        logger.debug("我是debug信息");
+        logger.debug("我是debug信息1");
 
         logger.info("我是info信息");
         logger.warn("我是warn信息");
